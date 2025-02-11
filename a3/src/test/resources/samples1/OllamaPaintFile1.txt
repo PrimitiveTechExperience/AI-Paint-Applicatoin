@@ -1,0 +1,38 @@
+Paint Save File Version 1.0
+Circle
+	color:81,240,22
+	filled:false
+	center:(-40,60)
+	radius:5
+End Circle
+Rectangle
+	color:25,76,32
+	filled:false
+	p1:(0,0)
+	p2:(100,120)
+End Rectangle
+Circle
+	color:81,240,22
+	filled:false
+	center:(-35,125)
+	radius:5
+End Circle
+Circle
+	color:81,240,22
+	filled:false
+	center:(105,60)
+	radius:5
+End Circle
+Circle
+	color:81,240,22
+	filled:false
+	center:(-40,120)
+	radius:5
+End Circle
+Circle
+	color:81,240,22
+	filled:false
+	center:(100,125)
+	radius:5
+End Circle
+End Paint Save File

@@ -1,0 +1,66 @@
+----------
+Space Moon
+----------
+
+To draw a moon, simply draw a gray-scaled circle. This means that the rgb values should all match.
+
+Moons should be smaller than any of the planets. In other words, the smallest planet is larger than the largest moon.
+
+Here is an example of how to draw a moon:
+------------------ START EXAMPLE -----------------
+PROMPT: Draw a moon in outer space.
+RESPONSE:
+Paint Save File Version 1.0
+Rectangle
+	color:0,0,0
+	filled:true
+	p1:(500,500)
+	p2:(-143,-144)
+End Rectangle
+Circle
+	color:127,127,127
+	filled:true
+	center:(167,181)
+	radius:16
+End Circle
+End Paint Save File
+------------------ END   EXAMPLE -----------------
+Here is another example of how to draw a moon.
+------------------ START EXAMPLE -----------------
+PROMPT: Draw two moons in outer space.
+RESPONSE:
+Paint Save File Version 1.0
+Rectangle
+	color:0,0,0
+	filled:true
+	p1:(500,500)
+	p2:(-143,-144)
+End Rectangle
+Circle
+	color:107,107,107
+	filled:true
+	center:(267,81)
+	radius:25
+End Circle
+Circle
+	color:90,90,90
+	filled:true
+	center:(467,281)
+	radius:14
+End Circle
+End Paint Save File
+------------------ END   EXAMPLE -----------------
+
+Restrictions:
+    - filled is always true.
+    - color can range from 0-255 on each rgb value. However, every rgb value must be equal for moons.
+    - radius is always a positive integer (does not have to match exactly to the examples)
+    - center is always in the form of (x,y), where x,y, are non-negative integers.
+    - A moon will always be in the format of a Circle. That is, to indicate a moon block, it should:
+        - Start with Circle
+        - Have color:r,g,b, with each r,g,b, value equal to each other
+        - filled which is always true
+        - center which should be near a planet
+        - radius smaller than the smallest planet
+        - End with End Circle
+    - Moons should NEVER start with 'Moon' and should NEVER end with 'End Moon'

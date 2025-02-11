@@ -1,0 +1,39 @@
+EXAMPLE BEGIN
+Paint Save File Version 1.0
+Circle
+	color:180,180,180
+	filled:true
+	center:(150,150)
+	radius:130
+End Circle
+Circle
+	color:120,20,100
+	filled:true
+	center:(110,130)
+	radius:30
+End Circle
+Circle
+	color:200,200,50
+	filled:true
+	center:(190,130)
+	radius:25
+End Circle
+Rectangle
+	color:170,85,40
+	filled:true
+	p1:(140,160)
+	p2:(160,200)
+End Rectangle
+Polyline
+	color:10,220,220
+	filled:false
+	points
+		point:(100,250)
+		point:(140,270)
+		point:(180,270)
+		point:(220,250)
+		point:(220,250)
+	end points
+End Polyline
+End Paint Save File
+EXAMPLE END

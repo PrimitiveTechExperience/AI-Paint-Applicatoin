@@ -1,0 +1,46 @@
+Part1-1 PolylineCommand
+
+[Y] PolylineCommand_SUBMITTED
+[Y] extends_PaintCommand
+[Y] notifyObserver
+PolylineCommand_TOTAL: 3/3
+ 
+Part1-1 PolylineShapeManipulator
+
+[Y] PolylineShapeManipulator_SUBMITTED
+[Y] extends_ShapeManipulatorStrategy
+[Y] mousePressed_clicked_etc
+[Y] mouseMoved
+PolylineShapeManipulator_TOTAL: 4/4
+ 
+Part1-2 PaintFileSave
+PaintFileSave_TOTAL: 5/5
+ 
+Part 1-3 PaintFileParser 
+PaintFileParser_TOTAL: 16/16
+ 
+Part2 Ollama 
+ 
+PaintFile1_[1-3] 
+3 = FilesCreated
+3 = FilesParsed
+1 = Interesting
+ 
+PaintFile2_[1-3]
+3 = FilesCreated
+3 = FilesParsed
+2 = Interesting
+ 
+PaintFile3_[1-3] 
+3 = FilesCreated
+3 = FilesParsed
+3 = Interesting
+ 
+Ollama_TOTAL: 88.9/100
+ 
+--------------------------------------------------------------------------------
+Part1-1_TOTAL: 10.0/10
+Part1-2_TOTAL: 5.0/5
+Part1-3_TOTAL: 10.0/10
+Part2_TOTAL: 22.2/25
+A3_TOTAL: 94.5/100

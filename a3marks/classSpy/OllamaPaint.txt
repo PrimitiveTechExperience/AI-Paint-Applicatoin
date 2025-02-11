@@ -1,0 +1,93 @@
+Class:
+  ca.utoronto.utm.paint.OllamaPaint
+
+Modifiers:
+  public
+
+Type Parameters:
+  -- No Type Parameters --
+
+Implemented Interfaces:
+  -- No Implemented Interfaces --
+
+Inheritance Path:
+  ca.utoronto.utm.paint.Ollama
+  java.lang.Object
+
+Annotations:
+  -- No Annotations --
+
+Class:
+  ca.utoronto.utm.paint.OllamaPaint
+
+Package:
+  ca.utoronto.utm.paint
+
+Constuctors:
+  public ca.utoronto.utm.paint.OllamaPaint(java.lang.String)
+
+Fields:
+  -- No Fields --
+
+Methods:
+  public static void ca.utoronto.utm.paint.OllamaPaint.main(java.lang.String[])
+  public java.lang.String ca.utoronto.utm.paint.OllamaPaint.RemoveBanter(java.lang.String)
+  public void ca.utoronto.utm.paint.OllamaPaint.newFile(java.lang.String,java.lang.String)
+  public void ca.utoronto.utm.paint.OllamaPaint.modifyFile(java.lang.String,java.lang.String,java.lang.String)
+  public void ca.utoronto.utm.paint.OllamaPaint.newFile1(java.lang.String)
+  public void ca.utoronto.utm.paint.OllamaPaint.newFile2(java.lang.String)
+  public void ca.utoronto.utm.paint.OllamaPaint.newFile3(java.lang.String)
+  public void ca.utoronto.utm.paint.OllamaPaint.modifyFile1(java.lang.String,java.lang.String)
+  public void ca.utoronto.utm.paint.OllamaPaint.modifyFile2(java.lang.String,java.lang.String)
+  public void ca.utoronto.utm.paint.OllamaPaint.modifyFile3(java.lang.String,java.lang.String)
+  public java.lang.String ca.utoronto.utm.paint.Ollama.call(java.lang.String,java.lang.String)
+  public boolean java.lang.Object.equals(java.lang.Object)
+  public java.lang.String java.lang.Object.toString()
+  public native int java.lang.Object.hashCode()
+  public final native java.lang.Class<?> java.lang.Object.getClass()
+  public final native void java.lang.Object.notify()
+  public final native void java.lang.Object.notifyAll()
+  public final void java.lang.Object.wait(long) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait() throws java.lang.InterruptedException
+
+Classes:
+  -- No member interfaces, classes, or enums --
+
+Class:
+  ca.utoronto.utm.paint.OllamaPaint
+
+Package:
+  ca.utoronto.utm.paint
+
+Constuctors:
+  public ca.utoronto.utm.paint.OllamaPaint(java.lang.String)
+
+Fields:
+  -- No Fields --
+
+Methods:
+  public static void ca.utoronto.utm.paint.OllamaPaint.main(java.lang.String[])
+  public java.lang.String ca.utoronto.utm.paint.OllamaPaint.RemoveBanter(java.lang.String)
+  public void ca.utoronto.utm.paint.OllamaPaint.newFile(java.lang.String,java.lang.String)
+  public void ca.utoronto.utm.paint.OllamaPaint.modifyFile(java.lang.String,java.lang.String,java.lang.String)
+  public void ca.utoronto.utm.paint.OllamaPaint.newFile1(java.lang.String)
+  public void ca.utoronto.utm.paint.OllamaPaint.newFile2(java.lang.String)
+  public void ca.utoronto.utm.paint.OllamaPaint.newFile3(java.lang.String)
+  public void ca.utoronto.utm.paint.OllamaPaint.modifyFile1(java.lang.String,java.lang.String)
+  public void ca.utoronto.utm.paint.OllamaPaint.modifyFile2(java.lang.String,java.lang.String)
+  public void ca.utoronto.utm.paint.OllamaPaint.modifyFile3(java.lang.String,java.lang.String)
+  public java.lang.String ca.utoronto.utm.paint.Ollama.call(java.lang.String,java.lang.String)
+  public boolean java.lang.Object.equals(java.lang.Object)
+  public java.lang.String java.lang.Object.toString()
+  public native int java.lang.Object.hashCode()
+  public final native java.lang.Class<?> java.lang.Object.getClass()
+  public final native void java.lang.Object.notify()
+  public final native void java.lang.Object.notifyAll()
+  public final void java.lang.Object.wait(long) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait() throws java.lang.InterruptedException
+
+Classes:
+  -- No member interfaces, classes, or enums --
+

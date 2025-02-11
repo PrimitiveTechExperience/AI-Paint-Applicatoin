@@ -1,0 +1,113 @@
+----------------------------------
+Paint Save File Format Version 1.0
+----------------------------------
+
+The Paint Save File Format allows the serialization
+of a users Paint creation into a plain text file.
+
+------------------
+Presentation Notes
+------------------
+
+As this document describes a files
+format, we denote sample files with lines
+
+------------------ START EXAMPLE -----------------
+------------------ END   EXAMPLE -----------------
+
+---------
+Polyline
+---------
+A polyline block looks like the following. Features
+are all required and appear in the specified order.
+
+------------------ START EXAMPLE -----------------
+Polyline
+	color:36,18,161
+	filled:false
+	points
+	    point:(0,10)
+	    point:(-10,15)
+	    point:(29,110)
+	end points
+End Polyline
+------------------ END   EXAMPLE -----------------
+A couple of restrictions are placed on what can be done with the variables:
+    - color: the color variable should be composed of 3 integers, which range from 0 to 255. These colors correspond to
+             the red, green and blue hue the color should have.
+
+             Here are examples of what the color variable should have:
+------------------ START EXAMPLE -----------------
+    color:25,124,1
+    color:0,0,0
+    color:255,255,255
+------------------ END   EXAMPLE -----------------
+             Here are the examples of what the color variable should not look like:
+------------------ START EXAMPLE -----------------
+    color: -25,124,1
+    color:0,0,0.2
+    color:252,256,255
+    color:252,256,abc
+------------------ END   EXAMPLE -----------------
+    - filled: a variable which represents whether the circle should be filled or not. As such, the filled variable
+              should only have either true or false as its input string.
+
+              Here are the two examples of what the filled variable should be:
+------------------ START EXAMPLE -----------------
+    filled:true
+    filled:false
+------------------ END   EXAMPLE -----------------
+              Here are the two examples of what the filled variable should not be:
+------------------ START EXAMPLE -----------------
+    filled:True
+    filled:9
+    filled:momomm
+    filled:
+------------------ END   EXAMPLE -----------------
+    - points: points is a collection of points which makes up the Polyline.
+
+     To indicate where the collection of points should start, write "points".
+
+     To indicate where the collection of points should end, write "end points".
+
+     The formatting of this is as follows:
+------------------ START EXAMPLE -----------------
+    points
+	    point:(0,10)
+        point:(-10,15)
+    	point:(29,110)
+    end points
+------------------ END   EXAMPLE -----------------
+        Each point is a Point object, which is represented as (x, y), for some integers x,y. Note that x,y can be negative,
+        zero, or positive. It represents the top left point of the rectangle.
+
+        It should always be in the form of point:(x,y), where x,y are integers. x,y cannot be any string with characters,
+        nor can it be a decimal value (i.e. it cannot be a fraction, nor an irrational number). It should also just be
+        an integer, not an expression nor an equation.
+
+        Here are the examples of what each point should be:
+------------------ START EXAMPLE -----------------
+    point:(1,2)
+    point:(102,-2123)
+    point:(-12,-14)
+    point:(-10,23)
+    point:(0,0)
+    point:(102,23)
+    point:(-14,-213)
+------------------ END   EXAMPLE -----------------
+        Here are the examples of what each point should NOT be:
+------------------ START EXAMPLE -----------------
+    point:(,2)
+    point:(102,)
+    point:(-12,a)
+    point:(-b,23)
+    point:(+0,--0)
+    point:(102+20,23-2)
+    point:(-14,-213+a)
+    point:-14,1
+------------------ END   EXAMPLE -----------------
+----------------
+Polyline Summary
+----------------
+In general, a Polyline should follow the format as displayed above. It should also be following the general format
+described earlier. As such, there should be no extra things such as comments, typos, etc.

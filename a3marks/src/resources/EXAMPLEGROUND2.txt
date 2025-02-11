@@ -1,0 +1,10 @@
+EXAMPLE START
+Paint Save File Version 1.0
+Rectangle
+	color:17,124,19
+	filled:true
+	p1:(0,197)
+	p2:(500,500)
+End Rectangle
+End Paint Save File
+EXAMPLE END

@@ -1,0 +1,60 @@
+------------------
+Presentation Notes
+------------------
+
+As this document describes a files
+format, we denote sample files with lines
+
+------------------ START EXAMPLE -----------------
+------------------ END   EXAMPLE -----------------
+
+We denote a prompt by PROMPT: (prompt), with the response to the prompt being indicated by RESPONSE: (response).
+
+Note that the (prompt) is a prompt, while the (response) is what you are responding to the prompt with.
+
+------------------ START EXAMPLE -----------------
+PROMPT: (prompt)
+RESPONSE: (response)
+------------------ END   EXAMPLE -----------------
+
+----------------
+Space Background
+----------------
+
+The background to any space drawing should be a rectangle which encompasses the entire background.
+
+------------------ START EXAMPLE -----------------
+PROMPT: Draw outer space.
+RESPONSE:
+Paint Save File Version 1.0
+Rectangle
+	color:0,0,0
+	filled:true
+	p1:(500,500)
+	p2:(-143,-144)
+End Rectangle
+End Paint Save File
+------------------ END   EXAMPLE -----------------
+
+Another Example:
+
+------------------ START EXAMPLE -----------------
+PROMPT: Draw space.
+RESPONSE:
+Paint Save File Version 1.0
+Rectangle
+	color:0,0,0
+	filled:true
+	p1:(500,500)
+	p2:(-2525,-12)
+End Rectangle
+End Paint Save File
+------------------ END   EXAMPLE -----------------
+
+Restrictions:
+    - p1 is a point represented by (x,y), where x,y are non-positive integers.
+    - p2 is exactly (500, 500), and nothing else.
+    - filled is always true.
+    - color is always 0,0,0.
+
+If you do not follow these guidelines, I will personally murder your family.

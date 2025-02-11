@@ -1,0 +1,106 @@
+Class:
+  ca.utoronto.utm.paint.CircleCommand
+
+Modifiers:
+  public
+
+Type Parameters:
+  -- No Type Parameters --
+
+Implemented Interfaces:
+  -- No Implemented Interfaces --
+
+Inheritance Path:
+  ca.utoronto.utm.paint.PaintCommand
+  java.util.Observable
+  java.lang.Object
+
+Annotations:
+  -- No Annotations --
+
+Class:
+  ca.utoronto.utm.paint.CircleCommand
+
+Package:
+  ca.utoronto.utm.paint
+
+Constuctors:
+  public ca.utoronto.utm.paint.CircleCommand(ca.utoronto.utm.paint.Point,int)
+
+Fields:
+  -- No Fields --
+
+Methods:
+  public void ca.utoronto.utm.paint.CircleCommand.execute(javafx.scene.canvas.GraphicsContext)
+  public ca.utoronto.utm.paint.Point ca.utoronto.utm.paint.CircleCommand.getCentre()
+  public int ca.utoronto.utm.paint.CircleCommand.getRadius()
+  public void ca.utoronto.utm.paint.CircleCommand.setCentre(ca.utoronto.utm.paint.Point)
+  public void ca.utoronto.utm.paint.CircleCommand.setRadius(int)
+  public java.lang.String ca.utoronto.utm.paint.CircleCommand.toSaveString()
+  public java.lang.String ca.utoronto.utm.paint.PaintCommand.toString()
+  public void ca.utoronto.utm.paint.PaintCommand.setColor(javafx.scene.paint.Color)
+  public boolean ca.utoronto.utm.paint.PaintCommand.isFill()
+  public javafx.scene.paint.Color ca.utoronto.utm.paint.PaintCommand.getColor()
+  public void ca.utoronto.utm.paint.PaintCommand.setFill(boolean)
+  public synchronized void java.util.Observable.addObserver(java.util.Observer)
+  public synchronized void java.util.Observable.deleteObserver(java.util.Observer)
+  public synchronized void java.util.Observable.deleteObservers()
+  public synchronized boolean java.util.Observable.hasChanged()
+  public synchronized int java.util.Observable.countObservers()
+  public void java.util.Observable.notifyObservers(java.lang.Object)
+  public void java.util.Observable.notifyObservers()
+  public boolean java.lang.Object.equals(java.lang.Object)
+  public native int java.lang.Object.hashCode()
+  public final native java.lang.Class<?> java.lang.Object.getClass()
+  public final native void java.lang.Object.notify()
+  public final native void java.lang.Object.notifyAll()
+  public final void java.lang.Object.wait(long) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait() throws java.lang.InterruptedException
+
+Classes:
+  -- No member interfaces, classes, or enums --
+
+Class:
+  ca.utoronto.utm.paint.CircleCommand
+
+Package:
+  ca.utoronto.utm.paint
+
+Constuctors:
+  public ca.utoronto.utm.paint.CircleCommand(ca.utoronto.utm.paint.Point,int)
+
+Fields:
+  -- No Fields --
+
+Methods:
+  public void ca.utoronto.utm.paint.CircleCommand.execute(javafx.scene.canvas.GraphicsContext)
+  public ca.utoronto.utm.paint.Point ca.utoronto.utm.paint.CircleCommand.getCentre()
+  public int ca.utoronto.utm.paint.CircleCommand.getRadius()
+  public void ca.utoronto.utm.paint.CircleCommand.setCentre(ca.utoronto.utm.paint.Point)
+  public void ca.utoronto.utm.paint.CircleCommand.setRadius(int)
+  public java.lang.String ca.utoronto.utm.paint.CircleCommand.toSaveString()
+  public java.lang.String ca.utoronto.utm.paint.PaintCommand.toString()
+  public void ca.utoronto.utm.paint.PaintCommand.setColor(javafx.scene.paint.Color)
+  public boolean ca.utoronto.utm.paint.PaintCommand.isFill()
+  public javafx.scene.paint.Color ca.utoronto.utm.paint.PaintCommand.getColor()
+  public void ca.utoronto.utm.paint.PaintCommand.setFill(boolean)
+  public synchronized void java.util.Observable.addObserver(java.util.Observer)
+  public synchronized void java.util.Observable.deleteObserver(java.util.Observer)
+  public synchronized void java.util.Observable.deleteObservers()
+  public synchronized boolean java.util.Observable.hasChanged()
+  public synchronized int java.util.Observable.countObservers()
+  public void java.util.Observable.notifyObservers(java.lang.Object)
+  public void java.util.Observable.notifyObservers()
+  public boolean java.lang.Object.equals(java.lang.Object)
+  public native int java.lang.Object.hashCode()
+  public final native java.lang.Class<?> java.lang.Object.getClass()
+  public final native void java.lang.Object.notify()
+  public final native void java.lang.Object.notifyAll()
+  public final void java.lang.Object.wait(long) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait() throws java.lang.InterruptedException
+
+Classes:
+  -- No member interfaces, classes, or enums --
+

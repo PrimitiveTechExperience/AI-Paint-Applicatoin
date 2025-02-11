@@ -1,0 +1,56 @@
+Paint Save File Version 1.0
+Polyline
+	color:255,0,0
+	filled:false
+	points
+		point:(20,30)
+		point:(70,170)
+		point:(120,50)
+	end points
+End Polyline
+Rectangle
+	color:0,0,255
+	filled:true
+	p1:(40,80)
+	p2:(100,120)
+End Rectangle
+Rectangle
+	color:0,255,0
+	filled:false
+	p1:(90,140)
+	p2:(120,170)
+End Rectangle
+Rectangle
+	color:255,255,0
+	filled:false
+	p1:(10,20)
+	p2:(50,70)
+End Rectangle
+Polyline
+	color:0,255,255
+	filled:false
+	points
+		point:(100,40)
+		point:(150,180)
+		point:(200,60)
+	end points
+End Polyline
+Polyline
+	color:255,165,0
+	filled:false
+	points
+		point:(30,110)
+		point:(80,160)
+		point:(130,50)
+	end points
+End Polyline
+Polyline
+	color:128,0,0
+	filled:false
+	points
+		point:(55,25)
+		point:(105,175)
+		point:(155,45)
+	end points
+End Polyline
+End Paint Save File

@@ -1,0 +1,95 @@
+Class:
+  ca.utoronto.utm.paint.PaintModel
+
+Modifiers:
+  public
+
+Type Parameters:
+  -- No Type Parameters --
+
+Implemented Interfaces:
+  interface java.util.Observer
+
+Inheritance Path:
+  java.util.Observable
+  java.lang.Object
+
+Annotations:
+  -- No Annotations --
+
+Class:
+  ca.utoronto.utm.paint.PaintModel
+
+Package:
+  ca.utoronto.utm.paint
+
+Constuctors:
+  public ca.utoronto.utm.paint.PaintModel()
+
+Fields:
+  -- No Fields --
+
+Methods:
+  public void ca.utoronto.utm.paint.PaintModel.reset()
+  public void ca.utoronto.utm.paint.PaintModel.update(java.util.Observable,java.lang.Object)
+  public void ca.utoronto.utm.paint.PaintModel.save(java.io.PrintWriter)
+  public void ca.utoronto.utm.paint.PaintModel.addCommand(ca.utoronto.utm.paint.PaintCommand)
+  public void ca.utoronto.utm.paint.PaintModel.executeAll(javafx.scene.canvas.GraphicsContext)
+  public synchronized void java.util.Observable.deleteObservers()
+  public synchronized boolean java.util.Observable.hasChanged()
+  public synchronized int java.util.Observable.countObservers()
+  public synchronized void java.util.Observable.deleteObserver(java.util.Observer)
+  public void java.util.Observable.notifyObservers(java.lang.Object)
+  public void java.util.Observable.notifyObservers()
+  public synchronized void java.util.Observable.addObserver(java.util.Observer)
+  public boolean java.lang.Object.equals(java.lang.Object)
+  public java.lang.String java.lang.Object.toString()
+  public native int java.lang.Object.hashCode()
+  public final native java.lang.Class<?> java.lang.Object.getClass()
+  public final native void java.lang.Object.notify()
+  public final native void java.lang.Object.notifyAll()
+  public final void java.lang.Object.wait(long) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait() throws java.lang.InterruptedException
+
+Classes:
+  -- No member interfaces, classes, or enums --
+
+Class:
+  ca.utoronto.utm.paint.PaintModel
+
+Package:
+  ca.utoronto.utm.paint
+
+Constuctors:
+  public ca.utoronto.utm.paint.PaintModel()
+
+Fields:
+  -- No Fields --
+
+Methods:
+  public void ca.utoronto.utm.paint.PaintModel.reset()
+  public void ca.utoronto.utm.paint.PaintModel.update(java.util.Observable,java.lang.Object)
+  public void ca.utoronto.utm.paint.PaintModel.save(java.io.PrintWriter)
+  public void ca.utoronto.utm.paint.PaintModel.addCommand(ca.utoronto.utm.paint.PaintCommand)
+  public void ca.utoronto.utm.paint.PaintModel.executeAll(javafx.scene.canvas.GraphicsContext)
+  public synchronized void java.util.Observable.deleteObservers()
+  public synchronized boolean java.util.Observable.hasChanged()
+  public synchronized int java.util.Observable.countObservers()
+  public synchronized void java.util.Observable.deleteObserver(java.util.Observer)
+  public void java.util.Observable.notifyObservers(java.lang.Object)
+  public void java.util.Observable.notifyObservers()
+  public synchronized void java.util.Observable.addObserver(java.util.Observer)
+  public boolean java.lang.Object.equals(java.lang.Object)
+  public java.lang.String java.lang.Object.toString()
+  public native int java.lang.Object.hashCode()
+  public final native java.lang.Class<?> java.lang.Object.getClass()
+  public final native void java.lang.Object.notify()
+  public final native void java.lang.Object.notifyAll()
+  public final void java.lang.Object.wait(long) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait() throws java.lang.InterruptedException
+
+Classes:
+  -- No member interfaces, classes, or enums --
+

@@ -1,0 +1,86 @@
+Class:
+  ca.utoronto.utm.paint.View
+
+Modifiers:
+  public
+
+Type Parameters:
+  -- No Type Parameters --
+
+Implemented Interfaces:
+  javafx.event.EventHandler<javafx.event.ActionEvent>
+
+Inheritance Path:
+  java.lang.Object
+
+Annotations:
+  -- No Annotations --
+
+Class:
+  ca.utoronto.utm.paint.View
+
+Package:
+  ca.utoronto.utm.paint
+
+Constuctors:
+  public ca.utoronto.utm.paint.View(ca.utoronto.utm.paint.PaintModel,javafx.stage.Stage)
+
+Fields:
+  -- No Fields --
+
+Methods:
+  public static void ca.utoronto.utm.paint.View.save(java.io.PrintWriter,ca.utoronto.utm.paint.PaintModel)
+  public void ca.utoronto.utm.paint.View.handle(javafx.event.Event)
+  public void ca.utoronto.utm.paint.View.handle(javafx.event.ActionEvent)
+  public void ca.utoronto.utm.paint.View.setPaintModel(ca.utoronto.utm.paint.PaintModel)
+  public ca.utoronto.utm.paint.PaintModel ca.utoronto.utm.paint.View.getPaintModel()
+  public ca.utoronto.utm.paint.PaintPanel ca.utoronto.utm.paint.View.getPaintPanel()
+  public ca.utoronto.utm.paint.ShapeChooserPanel ca.utoronto.utm.paint.View.getShapeChooserPanel()
+  public void ca.utoronto.utm.paint.View.setPaintPanelShapeManipulatorStrategy(ca.utoronto.utm.paint.ShapeManipulatorStrategy)
+  public boolean java.lang.Object.equals(java.lang.Object)
+  public java.lang.String java.lang.Object.toString()
+  public native int java.lang.Object.hashCode()
+  public final native java.lang.Class<?> java.lang.Object.getClass()
+  public final native void java.lang.Object.notify()
+  public final native void java.lang.Object.notifyAll()
+  public final void java.lang.Object.wait(long) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait() throws java.lang.InterruptedException
+
+Classes:
+  -- No member interfaces, classes, or enums --
+
+Class:
+  ca.utoronto.utm.paint.View
+
+Package:
+  ca.utoronto.utm.paint
+
+Constuctors:
+  public ca.utoronto.utm.paint.View(ca.utoronto.utm.paint.PaintModel,javafx.stage.Stage)
+
+Fields:
+  -- No Fields --
+
+Methods:
+  public static void ca.utoronto.utm.paint.View.save(java.io.PrintWriter,ca.utoronto.utm.paint.PaintModel)
+  public void ca.utoronto.utm.paint.View.handle(javafx.event.Event)
+  public void ca.utoronto.utm.paint.View.handle(javafx.event.ActionEvent)
+  public void ca.utoronto.utm.paint.View.setPaintModel(ca.utoronto.utm.paint.PaintModel)
+  public ca.utoronto.utm.paint.PaintModel ca.utoronto.utm.paint.View.getPaintModel()
+  public ca.utoronto.utm.paint.PaintPanel ca.utoronto.utm.paint.View.getPaintPanel()
+  public ca.utoronto.utm.paint.ShapeChooserPanel ca.utoronto.utm.paint.View.getShapeChooserPanel()
+  public void ca.utoronto.utm.paint.View.setPaintPanelShapeManipulatorStrategy(ca.utoronto.utm.paint.ShapeManipulatorStrategy)
+  public boolean java.lang.Object.equals(java.lang.Object)
+  public java.lang.String java.lang.Object.toString()
+  public native int java.lang.Object.hashCode()
+  public final native java.lang.Class<?> java.lang.Object.getClass()
+  public final native void java.lang.Object.notify()
+  public final native void java.lang.Object.notifyAll()
+  public final void java.lang.Object.wait(long) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait() throws java.lang.InterruptedException
+
+Classes:
+  -- No member interfaces, classes, or enums --
+

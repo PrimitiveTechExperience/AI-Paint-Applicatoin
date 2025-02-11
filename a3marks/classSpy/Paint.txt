@@ -1,0 +1,95 @@
+Class:
+  ca.utoronto.utm.paint.Paint
+
+Modifiers:
+  public
+
+Type Parameters:
+  -- No Type Parameters --
+
+Implemented Interfaces:
+  -- No Implemented Interfaces --
+
+Inheritance Path:
+  javafx.application.Application
+  java.lang.Object
+
+Annotations:
+  -- No Annotations --
+
+Class:
+  ca.utoronto.utm.paint.Paint
+
+Package:
+  ca.utoronto.utm.paint
+
+Constuctors:
+  public ca.utoronto.utm.paint.Paint()
+
+Fields:
+  public static final java.lang.String javafx.application.Application.STYLESHEET_CASPIAN
+  public static final java.lang.String javafx.application.Application.STYLESHEET_MODENA
+
+Methods:
+  public static void ca.utoronto.utm.paint.Paint.main(java.lang.String[])
+  public void ca.utoronto.utm.paint.Paint.start(javafx.stage.Stage) throws java.lang.Exception
+  public void javafx.application.Application.init() throws java.lang.Exception
+  public void javafx.application.Application.stop() throws java.lang.Exception
+  public final javafx.application.Application$Parameters javafx.application.Application.getParameters()
+  public static void javafx.application.Application.launch(java.lang.Class<? extends javafx.application.Application>,java.lang.String...)
+  public static void javafx.application.Application.launch(java.lang.String...)
+  public final void javafx.application.Application.notifyPreloader(javafx.application.Preloader$PreloaderNotification)
+  public final javafx.application.HostServices javafx.application.Application.getHostServices()
+  public static java.lang.String javafx.application.Application.getUserAgentStylesheet()
+  public static void javafx.application.Application.setUserAgentStylesheet(java.lang.String)
+  public boolean java.lang.Object.equals(java.lang.Object)
+  public java.lang.String java.lang.Object.toString()
+  public native int java.lang.Object.hashCode()
+  public final native java.lang.Class<?> java.lang.Object.getClass()
+  public final native void java.lang.Object.notify()
+  public final native void java.lang.Object.notifyAll()
+  public final void java.lang.Object.wait(long) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait() throws java.lang.InterruptedException
+
+Classes:
+  javafx.application.Application.Parameters
+
+Class:
+  ca.utoronto.utm.paint.Paint
+
+Package:
+  ca.utoronto.utm.paint
+
+Constuctors:
+  public ca.utoronto.utm.paint.Paint()
+
+Fields:
+  public static final java.lang.String javafx.application.Application.STYLESHEET_CASPIAN
+  public static final java.lang.String javafx.application.Application.STYLESHEET_MODENA
+
+Methods:
+  public static void ca.utoronto.utm.paint.Paint.main(java.lang.String[])
+  public void ca.utoronto.utm.paint.Paint.start(javafx.stage.Stage) throws java.lang.Exception
+  public void javafx.application.Application.init() throws java.lang.Exception
+  public void javafx.application.Application.stop() throws java.lang.Exception
+  public final javafx.application.Application$Parameters javafx.application.Application.getParameters()
+  public static void javafx.application.Application.launch(java.lang.Class<? extends javafx.application.Application>,java.lang.String...)
+  public static void javafx.application.Application.launch(java.lang.String...)
+  public final void javafx.application.Application.notifyPreloader(javafx.application.Preloader$PreloaderNotification)
+  public final javafx.application.HostServices javafx.application.Application.getHostServices()
+  public static java.lang.String javafx.application.Application.getUserAgentStylesheet()
+  public static void javafx.application.Application.setUserAgentStylesheet(java.lang.String)
+  public boolean java.lang.Object.equals(java.lang.Object)
+  public java.lang.String java.lang.Object.toString()
+  public native int java.lang.Object.hashCode()
+  public final native java.lang.Class<?> java.lang.Object.getClass()
+  public final native void java.lang.Object.notify()
+  public final native void java.lang.Object.notifyAll()
+  public final void java.lang.Object.wait(long) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait() throws java.lang.InterruptedException
+
+Classes:
+  javafx.application.Application.Parameters
+

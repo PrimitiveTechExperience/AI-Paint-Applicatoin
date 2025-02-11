@@ -1,0 +1,54 @@
+Class:
+  ca.utoronto.utm.paint.PaintSaveFileSavable
+
+Modifiers:
+  public abstract interface
+
+Type Parameters:
+  -- No Type Parameters --
+
+Implemented Interfaces:
+  -- No Implemented Interfaces --
+
+Inheritance Path:
+  -- No Super Classes --
+
+Annotations:
+  -- No Annotations --
+
+Class:
+  ca.utoronto.utm.paint.PaintSaveFileSavable
+
+Package:
+  ca.utoronto.utm.paint
+
+Constuctors:
+  -- No Constuctors --
+
+Fields:
+  -- No Fields --
+
+Methods:
+  public abstract java.lang.String ca.utoronto.utm.paint.PaintSaveFileSavable.getPaintSaveFileString()
+
+Classes:
+  -- No member interfaces, classes, or enums --
+
+Class:
+  ca.utoronto.utm.paint.PaintSaveFileSavable
+
+Package:
+  ca.utoronto.utm.paint
+
+Constuctors:
+  -- No Constuctors --
+
+Fields:
+  -- No Fields --
+
+Methods:
+  public abstract java.lang.String ca.utoronto.utm.paint.PaintSaveFileSavable.getPaintSaveFileString()
+
+Classes:
+  -- No member interfaces, classes, or enums --
+

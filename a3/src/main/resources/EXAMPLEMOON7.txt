@@ -1,0 +1,28 @@
+EXAMPLE START
+Paint Save File Version 1.0
+Rectangle
+	color:0,0,0
+	filled:true
+	p1:(500,500)
+	p2:(-143,-144)
+End Rectangle
+Circle
+	color:110,110,110
+	filled:true
+	center:(210,150)
+	radius:10
+End Circle
+Circle
+	color:120,120,120
+	filled:true
+	center:(330,270)
+	radius:13
+End Circle
+Circle
+	color:125,125,125
+	filled:true
+	center:(460,430)
+	radius:7
+End Circle
+End Paint Save File
+EXAMPLE END

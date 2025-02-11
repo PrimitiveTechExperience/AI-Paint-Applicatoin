@@ -1,0 +1,89 @@
+Class:
+  ca.utoronto.utm.paint.PolylineManipulatorStrategy
+
+Modifiers:
+  public
+
+Type Parameters:
+  -- No Type Parameters --
+
+Implemented Interfaces:
+  -- No Implemented Interfaces --
+
+Inheritance Path:
+  ca.utoronto.utm.paint.ShapeManipulatorStrategy
+  java.lang.Object
+
+Annotations:
+  -- No Annotations --
+
+Class:
+  ca.utoronto.utm.paint.PolylineManipulatorStrategy
+
+Package:
+  ca.utoronto.utm.paint
+
+Constuctors:
+  -- No Constuctors --
+
+Fields:
+  -- No Fields --
+
+Methods:
+  public void ca.utoronto.utm.paint.PolylineManipulatorStrategy.mouseMoved(javafx.scene.input.MouseEvent)
+  public void ca.utoronto.utm.paint.PolylineManipulatorStrategy.mouseClicked(javafx.scene.input.MouseEvent)
+  public void ca.utoronto.utm.paint.ShapeManipulatorStrategy.handle(javafx.event.Event)
+  public void ca.utoronto.utm.paint.ShapeManipulatorStrategy.handle(javafx.scene.input.MouseEvent)
+  public void ca.utoronto.utm.paint.ShapeManipulatorStrategy.mouseDragged(javafx.scene.input.MouseEvent)
+  public void ca.utoronto.utm.paint.ShapeManipulatorStrategy.mousePressed(javafx.scene.input.MouseEvent)
+  public void ca.utoronto.utm.paint.ShapeManipulatorStrategy.mouseReleased(javafx.scene.input.MouseEvent)
+  public void ca.utoronto.utm.paint.ShapeManipulatorStrategy.mouseEntered(javafx.scene.input.MouseEvent)
+  public void ca.utoronto.utm.paint.ShapeManipulatorStrategy.mouseExited(javafx.scene.input.MouseEvent)
+  public boolean java.lang.Object.equals(java.lang.Object)
+  public java.lang.String java.lang.Object.toString()
+  public native int java.lang.Object.hashCode()
+  public final native java.lang.Class<?> java.lang.Object.getClass()
+  public final native void java.lang.Object.notify()
+  public final native void java.lang.Object.notifyAll()
+  public final void java.lang.Object.wait(long) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait() throws java.lang.InterruptedException
+
+Classes:
+  -- No member interfaces, classes, or enums --
+
+Class:
+  ca.utoronto.utm.paint.PolylineManipulatorStrategy
+
+Package:
+  ca.utoronto.utm.paint
+
+Constuctors:
+  -- No Constuctors --
+
+Fields:
+  -- No Fields --
+
+Methods:
+  public void ca.utoronto.utm.paint.PolylineManipulatorStrategy.mouseMoved(javafx.scene.input.MouseEvent)
+  public void ca.utoronto.utm.paint.PolylineManipulatorStrategy.mouseClicked(javafx.scene.input.MouseEvent)
+  public void ca.utoronto.utm.paint.ShapeManipulatorStrategy.handle(javafx.event.Event)
+  public void ca.utoronto.utm.paint.ShapeManipulatorStrategy.handle(javafx.scene.input.MouseEvent)
+  public void ca.utoronto.utm.paint.ShapeManipulatorStrategy.mouseDragged(javafx.scene.input.MouseEvent)
+  public void ca.utoronto.utm.paint.ShapeManipulatorStrategy.mousePressed(javafx.scene.input.MouseEvent)
+  public void ca.utoronto.utm.paint.ShapeManipulatorStrategy.mouseReleased(javafx.scene.input.MouseEvent)
+  public void ca.utoronto.utm.paint.ShapeManipulatorStrategy.mouseEntered(javafx.scene.input.MouseEvent)
+  public void ca.utoronto.utm.paint.ShapeManipulatorStrategy.mouseExited(javafx.scene.input.MouseEvent)
+  public boolean java.lang.Object.equals(java.lang.Object)
+  public java.lang.String java.lang.Object.toString()
+  public native int java.lang.Object.hashCode()
+  public final native java.lang.Class<?> java.lang.Object.getClass()
+  public final native void java.lang.Object.notify()
+  public final native void java.lang.Object.notifyAll()
+  public final void java.lang.Object.wait(long) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait() throws java.lang.InterruptedException
+
+Classes:
+  -- No member interfaces, classes, or enums --
+

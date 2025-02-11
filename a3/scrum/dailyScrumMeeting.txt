@@ -1,0 +1,130 @@
+# Fill in, commit and push each day.
+# Group Member: FILL THIS IN
+
+Nov 16, 2024
+	Yesterday : N/A
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 17, 2024
+	Yesterday : N/A
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 18, 2024
+	Yesterday : N/A
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 19, 2024
+	Yesterday : N/A
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 20, 2024
+	Yesterday : N/A
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 21, 2024
+	Yesterday : N/A
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 22, 2024
+	Yesterday : N/A
+	Today     : N/A
+	Obstacles : N/A
+	
+Nov 23, 2024
+	Yesterday : N/A
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 24, 2024
+	Yesterday : N/A
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 25, 2024
+	Yesterday : N/A
+	Today     : N/A
+	Obstacles : N/A
+
+Nov 26, 2024
+	Yesterday : N/A
+	Today     :
+        - Worked and Finished US3.1
+        - Worked and Finished US3.2
+        - Worked on US3.3
+	Obstacles :
+	    - Time constraints
+Nov 27, 2024
+	Yesterday :
+	    - Worked and Finished US3.1
+        - Worked and Finished US3.2
+        - Worked on US3.3
+	Today     :
+	    - Finished US3.3
+	    - Fixed bugs
+	Obstacles :
+	    - Time constraints
+	
+Nov 28, 2024
+	Yesterday :
+	    - Finished US3.3
+    	- Fixed bugs
+	Today     :
+	    - Started on OLLAMA
+	Obstacles :
+	    - Ollama is an op.
+	
+Nov 29, 2024
+	Yesterday :
+	    - Started on OLLAMA
+	Today     :
+	    - Not much
+	Obstacles :
+	    - Work
+
+Nov 30, 2024
+	Yesterday :
+	    - Not much
+	Today     :
+	    - Worked on OLLAMA Prompts
+	Obstacles :
+	    - OLLAMA giving me Moon end Moon.
+
+Dec 1, 2024
+	Yesterday :
+	    - Worked on OLLAMA Prompts
+	Today     :
+	    - Worked on OLLAMA Prompts
+	Obstacles :
+	    - OLLAMA giving me Moon end Moon.
+Dec 2, 2024
+	Yesterday :
+    	- Worked on first new file
+    Today     :
+        - Bugfixing first new file
+    Obstacles :
+  	    - OLLAMA giving me Moon end Moon.
+
+Dec 3, 2024
+	Yesterday :
+	    - Bugfixing first new file
+	Today     :
+	    - Finish everything
+	Obstacles :
+	    - Time is my enemy.
+
+Dec 4, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+	
+Dec 5, 2024
+	Yesterday :
+	Today     :
+	Obstacles :
+

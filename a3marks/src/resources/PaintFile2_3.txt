@@ -1,0 +1,117 @@
+Paint Save File Version 1.0
+Rectangle
+	color:135, 206, 235
+	filled:true
+	p1:(0,0)
+	p2:(500,500)
+End Rectangle
+Rectangle
+	color:19,109,21
+	filled:true
+	p1:(0,217)
+	p2:(500,500)
+End Rectangle
+Circle
+	color:50,205,50
+	filled:true
+	center:(320,250)
+	radius:60
+End Circle
+Rectangle
+	color:120,72,35
+	filled:true
+	p1:(180,270)
+	p2:(220,400)
+End Rectangle
+Circle
+	color:34,139,34
+	filled:true
+	center:(200,240)
+	radius:70
+End Circle
+Rectangle
+	color:139,69,19
+	filled:true
+	p1:(300,300)
+	p2:(340,450)
+End Rectangle
+Circle
+	color:50,205,50
+	filled:true
+	center:(320,250)
+	radius:60
+End Circle
+Rectangle
+	color:150,75,50
+	filled:true
+	p1:(150,310)
+	p2:(190,450)
+End Rectangle
+Circle
+	color:107,142,35
+	filled:true
+	center:(170,270)
+	radius:50
+End Circle
+Rectangle
+	color:160,82,45
+	filled:true
+	p1:(240,290)
+	p2:(280,440)
+End Rectangle
+Circle
+	color:85,107,47
+	filled:true
+	center:(260,250)
+	radius:55
+End Circle
+Rectangle
+	color:100,50,30
+	filled:true
+	p1:(400,320)
+	p2:(440,470)
+End Rectangle
+Circle
+	color:0,128,0
+	filled:true
+	center:(420,280)
+	radius:60
+End Circle
+Rectangle
+	color:133,94,66
+	filled:true
+	p1:(340,280)
+	p2:(380,430)
+End Rectangle
+Circle
+	color:60,179,113
+	filled:true
+	center:(360,240)
+	radius:65
+End Circle
+Rectangle
+	color:156,102,31
+	filled:true
+	p1:(120,320)
+	p2:(160,470)
+End Rectangle
+Circle
+	color:32,178,170
+	filled:true
+	center:(140,280)
+	radius:60
+End Circle
+Rectangle
+	color:105,45,20
+	filled:true
+	p1:(270,300)
+	p2:(310,460)
+End Rectangle
+Circle
+	color:46,139,87
+	filled:true
+	center:(290,260)
+	radius:50
+End Circle
+End Paint Save File
+

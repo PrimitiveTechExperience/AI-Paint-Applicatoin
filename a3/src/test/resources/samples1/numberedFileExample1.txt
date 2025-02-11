@@ -1,0 +1,15 @@
+1: Every individual is equal before and under the law and has the right to the equal protection and equal benefit of the law without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+2: All individuals are equal in dignity and rights.
+3: Everyone has the right to life, liberty and security of the person and not be deprived thereof except in accordance with the principles of fundamental justice.
+4: Everyone has the right to freedom from arbitrary detention or imprisonment.
+5: There shall be no discrimination against any individual because of race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+6: All individuals are equal before and under the law.
+7: The rights of the individual protected in this Charter are derived from and consistent with Canada's historic and constitutional traditions and the principles of fundamental justice and democracy.
+8: The Canadian Charter of Rights and Freedoms is a source of fundamental principles to be respected and observed by all branches of government.
+9: There shall be no deprivation or limitation on the right to life, liberty and security of the person without the law.
+10: All individuals have the right to freedom from cruel and unusual treatment or punishment.
+11: All individuals have the right to freedom from imprisonment without just cause.
+12: The rights protected in this Charter are guaranteed equally to male and female persons.
+13: Every individual has the right to life, liberty and security of the person without discrimination based on race, national or ethnic origin, colour, religion, sex, age or mental or physical disability.
+14: All individuals have the right to freedom from unreasonable search or seizure.
+15: There shall be no deprivation or limitation on the rights protected by this Charter except in accordance with the principles of fundamental justice.

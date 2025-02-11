@@ -1,0 +1,26 @@
+Paint Save File Version 1.0
+Polyline
+	color:207,177,194
+	filled:true
+	points
+		point:(113,90)
+		point:(28,432)
+		point:(156,262)
+		point:(32,268)
+		point:(126,419)
+		point:(112,97)
+	end points
+End Polyline
+Polyline
+	color:217,185,151
+	filled:false
+	points
+		point:(340,112)
+		point:(227,432)
+		point:(411,270)
+		point:(208,248)
+		point:(385,424)
+		point:(338,113)
+	end points
+End Polyline
+End Paint Save File

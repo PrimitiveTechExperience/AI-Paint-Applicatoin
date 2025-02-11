@@ -1,0 +1,9 @@
+Paint Save File Version 1.0
+
+Circle
+   X=20 Y=10 R=5
+   X=140 Y=10 R=5
+   X=20 Y=110 R=5
+   X=140 Y=110 R=5
+End Circle
+End Paint Save File

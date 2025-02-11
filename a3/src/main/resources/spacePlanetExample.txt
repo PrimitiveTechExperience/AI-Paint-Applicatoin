@@ -1,0 +1,86 @@
+------------------
+Presentation Notes
+------------------
+
+As this document describes a files
+format, we denote sample files with lines
+
+------------------ START EXAMPLE -----------------
+------------------ END   EXAMPLE -----------------
+
+We denote a prompt by PROMPT: (prompt), with the response to the prompt being indicated by RESPONSE: (response).
+
+Note that the (prompt) is a prompt, while the (response) is what you are responding to the prompt with.
+
+------------------ START EXAMPLE -----------------
+PROMPT: (prompt)
+RESPONSE: (response)
+------------------ END   EXAMPLE -----------------
+
+------------
+Space Planet
+------------
+
+To draw a planet in space, simply draw a filled circle with some color (on a background of black).
+
+------------------ START EXAMPLE -----------------
+PROMPT: Draw a planet in outer space
+RESPONSE:
+Paint Save File Version 1.0
+Rectangle
+	color:0,0,0
+	filled:true
+	p1:(500,500)
+	p2:(-143,-144)
+End Rectangle
+Circle
+	color:77,218,54
+	filled:true
+	center:(159,191)
+	radius:62
+End Circle
+End Paint Save File
+------------------ END   EXAMPLE -----------------
+
+Another Example:
+
+------------------ START EXAMPLE -----------------
+PROMPT: Draw a red planet, then a blue planet, then a yellow planet.
+RESPONSE:
+Paint Save File Version 1.0
+Rectangle
+	color:0,0,0
+	filled:true
+	p1:(500,500)
+	p2:(-143,-144)
+End Rectangle
+Circle
+	color:242,66,66
+	filled:true
+	center:(109,281)
+	radius:62
+End Circle
+Circle
+	color:48,42,235
+	filled:true
+	center:(309,81)
+	radius:31
+End Circle
+Circle
+	color:255,249,58
+	filled:true
+	center:(159,191)
+	radius:42
+End Circle
+End Paint Save File
+------------------ END   EXAMPLE -----------------
+
+Restrictions:
+    - filled is always true.
+    - color can range from 0-255 on each rgb value.
+    - radius is always a positive integer (does not have to match exactly to the examples)
+    - center is always in the form of (x,y), where x,y, are non-negative integers.
+    - A planet will always be in the format of a Circle.
+    - Planets should not be on top of each other. (in other words, each planet's center should be unique).
+
+

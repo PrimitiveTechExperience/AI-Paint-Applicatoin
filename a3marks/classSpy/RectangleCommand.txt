@@ -1,0 +1,112 @@
+Class:
+  ca.utoronto.utm.paint.RectangleCommand
+
+Modifiers:
+  public
+
+Type Parameters:
+  -- No Type Parameters --
+
+Implemented Interfaces:
+  -- No Implemented Interfaces --
+
+Inheritance Path:
+  ca.utoronto.utm.paint.PaintCommand
+  java.util.Observable
+  java.lang.Object
+
+Annotations:
+  -- No Annotations --
+
+Class:
+  ca.utoronto.utm.paint.RectangleCommand
+
+Package:
+  ca.utoronto.utm.paint
+
+Constuctors:
+  public ca.utoronto.utm.paint.RectangleCommand(ca.utoronto.utm.paint.Point,ca.utoronto.utm.paint.Point)
+
+Fields:
+  -- No Fields --
+
+Methods:
+  public void ca.utoronto.utm.paint.RectangleCommand.execute(javafx.scene.canvas.GraphicsContext)
+  public ca.utoronto.utm.paint.Point ca.utoronto.utm.paint.RectangleCommand.getDimensions()
+  public ca.utoronto.utm.paint.Point ca.utoronto.utm.paint.RectangleCommand.getTopLeft()
+  public ca.utoronto.utm.paint.Point ca.utoronto.utm.paint.RectangleCommand.getBottomRight()
+  public ca.utoronto.utm.paint.Point ca.utoronto.utm.paint.RectangleCommand.getP1()
+  public ca.utoronto.utm.paint.Point ca.utoronto.utm.paint.RectangleCommand.getP2()
+  public void ca.utoronto.utm.paint.RectangleCommand.setP1(ca.utoronto.utm.paint.Point)
+  public void ca.utoronto.utm.paint.RectangleCommand.setP2(ca.utoronto.utm.paint.Point)
+  public java.lang.String ca.utoronto.utm.paint.RectangleCommand.toSaveString()
+  public java.lang.String ca.utoronto.utm.paint.PaintCommand.toString()
+  public void ca.utoronto.utm.paint.PaintCommand.setColor(javafx.scene.paint.Color)
+  public boolean ca.utoronto.utm.paint.PaintCommand.isFill()
+  public javafx.scene.paint.Color ca.utoronto.utm.paint.PaintCommand.getColor()
+  public void ca.utoronto.utm.paint.PaintCommand.setFill(boolean)
+  public void java.util.Observable.notifyObservers()
+  public void java.util.Observable.notifyObservers(java.lang.Object)
+  public synchronized void java.util.Observable.addObserver(java.util.Observer)
+  public synchronized void java.util.Observable.deleteObserver(java.util.Observer)
+  public synchronized void java.util.Observable.deleteObservers()
+  public synchronized boolean java.util.Observable.hasChanged()
+  public synchronized int java.util.Observable.countObservers()
+  public boolean java.lang.Object.equals(java.lang.Object)
+  public native int java.lang.Object.hashCode()
+  public final native java.lang.Class<?> java.lang.Object.getClass()
+  public final native void java.lang.Object.notify()
+  public final native void java.lang.Object.notifyAll()
+  public final void java.lang.Object.wait(long) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait() throws java.lang.InterruptedException
+
+Classes:
+  -- No member interfaces, classes, or enums --
+
+Class:
+  ca.utoronto.utm.paint.RectangleCommand
+
+Package:
+  ca.utoronto.utm.paint
+
+Constuctors:
+  public ca.utoronto.utm.paint.RectangleCommand(ca.utoronto.utm.paint.Point,ca.utoronto.utm.paint.Point)
+
+Fields:
+  -- No Fields --
+
+Methods:
+  public void ca.utoronto.utm.paint.RectangleCommand.execute(javafx.scene.canvas.GraphicsContext)
+  public ca.utoronto.utm.paint.Point ca.utoronto.utm.paint.RectangleCommand.getDimensions()
+  public ca.utoronto.utm.paint.Point ca.utoronto.utm.paint.RectangleCommand.getTopLeft()
+  public ca.utoronto.utm.paint.Point ca.utoronto.utm.paint.RectangleCommand.getBottomRight()
+  public ca.utoronto.utm.paint.Point ca.utoronto.utm.paint.RectangleCommand.getP1()
+  public ca.utoronto.utm.paint.Point ca.utoronto.utm.paint.RectangleCommand.getP2()
+  public void ca.utoronto.utm.paint.RectangleCommand.setP1(ca.utoronto.utm.paint.Point)
+  public void ca.utoronto.utm.paint.RectangleCommand.setP2(ca.utoronto.utm.paint.Point)
+  public java.lang.String ca.utoronto.utm.paint.RectangleCommand.toSaveString()
+  public java.lang.String ca.utoronto.utm.paint.PaintCommand.toString()
+  public void ca.utoronto.utm.paint.PaintCommand.setColor(javafx.scene.paint.Color)
+  public boolean ca.utoronto.utm.paint.PaintCommand.isFill()
+  public javafx.scene.paint.Color ca.utoronto.utm.paint.PaintCommand.getColor()
+  public void ca.utoronto.utm.paint.PaintCommand.setFill(boolean)
+  public synchronized void java.util.Observable.addObserver(java.util.Observer)
+  public synchronized void java.util.Observable.deleteObserver(java.util.Observer)
+  public synchronized void java.util.Observable.deleteObservers()
+  public synchronized boolean java.util.Observable.hasChanged()
+  public synchronized int java.util.Observable.countObservers()
+  public void java.util.Observable.notifyObservers(java.lang.Object)
+  public void java.util.Observable.notifyObservers()
+  public boolean java.lang.Object.equals(java.lang.Object)
+  public native int java.lang.Object.hashCode()
+  public final native java.lang.Class<?> java.lang.Object.getClass()
+  public final native void java.lang.Object.notify()
+  public final native void java.lang.Object.notifyAll()
+  public final void java.lang.Object.wait(long) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException
+  public final void java.lang.Object.wait() throws java.lang.InterruptedException
+
+Classes:
+  -- No member interfaces, classes, or enums --
+

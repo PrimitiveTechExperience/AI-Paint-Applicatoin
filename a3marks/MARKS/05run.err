@@ -1,0 +1,144 @@
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile1(OllamaPaint.java:135)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:6)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile1(OllamaPaint.java:136)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:6)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile1(OllamaPaint.java:137)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:6)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile1(OllamaPaint.java:138)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:6)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile2(OllamaPaint.java:198)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:7)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile2(OllamaPaint.java:199)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:7)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile2(OllamaPaint.java:200)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:7)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile2(OllamaPaint.java:201)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:7)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile3(OllamaPaint.java:273)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:8)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile3(OllamaPaint.java:274)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:8)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile3(OllamaPaint.java:275)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:8)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile3(OllamaPaint.java:276)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:8)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile1(OllamaPaint.java:135)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:6)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile1(OllamaPaint.java:136)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:6)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile1(OllamaPaint.java:137)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:6)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile1(OllamaPaint.java:138)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:6)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile2(OllamaPaint.java:198)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:7)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile2(OllamaPaint.java:199)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:7)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile2(OllamaPaint.java:200)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:7)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile2(OllamaPaint.java:201)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:7)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile3(OllamaPaint.java:273)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:8)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile3(OllamaPaint.java:274)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:8)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile3(OllamaPaint.java:275)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:8)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile3(OllamaPaint.java:276)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:8)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile1(OllamaPaint.java:135)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:6)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile1(OllamaPaint.java:136)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:6)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile1(OllamaPaint.java:137)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:6)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile1(OllamaPaint.java:138)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:6)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile2(OllamaPaint.java:198)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:7)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile2(OllamaPaint.java:199)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:7)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile2(OllamaPaint.java:200)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:7)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile2(OllamaPaint.java:201)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:7)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile3(OllamaPaint.java:273)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:8)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile3(OllamaPaint.java:274)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:8)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile3(OllamaPaint.java:275)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:8)
+java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+	at ca.utoronto.utm.paint.FileIO.readResourceFile(FileIO.java:74)
+	at ca.utoronto.utm.paint.OllamaPaint.newFile3(OllamaPaint.java:276)
+	at ca.utoronto.utm.paint.OllamaPaintTOMARK.main(OllamaPaintTOMARK.java:8)
